@@ -1,4 +1,4 @@
-package com.balazsholczer.huffman;
+
 
 public class HuffmanTree implements Comparable<HuffmanTree> {
 
