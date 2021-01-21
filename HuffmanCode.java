@@ -1,4 +1,4 @@
-package com.balazsholczer.huffman;
+
 
 import java.util.PriorityQueue;
 
