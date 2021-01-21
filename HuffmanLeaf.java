@@ -1,4 +1,4 @@
-package com.balazsholczer.huffman;
+
 
 public class HuffmanLeaf extends HuffmanTree {
 
